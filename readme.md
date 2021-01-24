@@ -1,0 +1,3 @@
+# SDL2 Template
+
+#### Basic VSCode CMake SDL2 Teamplate WIP...
