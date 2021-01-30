@@ -1,3 +1,3 @@
-# SDL2 Template
+# Particle Fun
 
-#### Basic VSCode CMake SDL2 Teamplate WIP...
+#### Small SDL2 particle project
